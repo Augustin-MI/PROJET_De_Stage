@@ -140,8 +140,14 @@ Lien direct :
 **Augustin MI** (Alomadiakpedede Koffivi Augustin)
 - 🎓 Data Analyst | Data Scientist
 - 📊 Spécialisé en Audit de Données & Business Intelligence
-- 🔗 GitHub : [AugustinMI](https://github.com/AugustinMI)
-- 💼 portofolio : [Augustin MI]((https://helpful-sorbet-9aba87.netlify.app/))
+
+### 🔗 Me suivre
+
+| Plateforme | Lien |
+|------------|------|
+| 🌐 **Portfolio** | [https://helpful-sorbet-9aba87.netlify.app/](https://helpful-sorbet-9aba87.netlify.app/) |
+| 🐙 **GitHub** | [github.com/AugustinMI](https://github.com/AugustinMI) |
+
 
 ## 📅 Projet réalisé pour
 **JCK** - Audit & Gouvernance de la Base Transactionnelle
