@@ -12,7 +12,6 @@ L'objectif est de collecter, nettoyer, analyser et visualiser les données de 4 
 | `Analyses.ipynb` | Notebook principal - Audit complet des données JCK |
 | `Audit_Strategique_JCK_Complet.png` | Dashboard final des 12 indicateurs stratégiques |
 | `Audit_Strategique_JCK_Complet.pdf` | Version PDF du dashboard |
-| `requirements.txt` | Dépendances Python |
 | `README.md` | Documentation du projet |
 
 ## 📊 Résultats du Diagnostic Données
@@ -146,7 +145,7 @@ Lien direct :
 | Plateforme | Lien |
 |------------|------|
 | 🌐 **Portfolio** | [https://helpful-sorbet-9aba87.netlify.app/](https://helpful-sorbet-9aba87.netlify.app/) |
-| 🐙 **GitHub** | [github.com/AugustinMI](https://github.com/AugustinMI) |
+| 🐙 **GitHub** | [github.com/Augustin-MI](https://github.com/Augustin-MI) |
 
 
 ## 📅 Projet réalisé pour
