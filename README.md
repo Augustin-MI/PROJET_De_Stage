@@ -138,7 +138,7 @@ Lien direct :
 
 **Augustin MI** (Alomadiakpedede Koffivi Augustin)
 - 🎓 Data Analyst | Data Scientist
-- 📊 Spécialisé en Audit de Données & Business Intelligence
+- 📊 Spécialisé en Audit de Données & Business Intelligence 
 
 ### 🔗 Me suivre
 
